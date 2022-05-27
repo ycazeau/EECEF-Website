@@ -13,7 +13,7 @@
 }
 
 #about-page-header {  
-  background-image: url('../images/bible1.jpg');
+  background-image: url('../images/bible.jpg');
   background-attachment:scroll ;
   background-position: center;
   height: 50vh;
@@ -31,8 +31,13 @@
   background-attachment:scroll ;
   background-position: center;
   height: 50vh;
+}
 
-
+#podcast-page-header {
+  background-image: url('../images/podcast.jpg');
+  background-attachment:scroll ;
+  background-position: bottom;
+  height: 50vh;
 }
 
 
