@@ -12,6 +12,28 @@
     color: #79A145;
 }
 
+#about-page-header {  
+  background-image: url('../images/bible1.jpg');
+  background-attachment:scroll ;
+  background-position: center;
+  height: 50vh;
+}
+
+#contact-page-header {
+  background-image: url('../images/contact-us.jpg');
+  background-attachment:fixed ;
+  background-position: bottom;
+  height: 50vh;
+}
+
+#blog-page-header {
+  background-image: url('../images/blog1.jpg');
+  background-attachment:scroll ;
+  background-position: center;
+  height: 50vh;
+
+
+}
 
 
 /* Back To Top */
